@@ -1,3 +1,7 @@
 # CodeTest
 코딩테스트용 테스트
 이렇게 변경해보면 어떨까요?
+
+var name = "Hsyun"
+println("name")
+println($name)
